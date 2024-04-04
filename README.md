@@ -1,2 +1,2 @@
-# ABC-Product-Analysis
-ABC-Product-Segmentation
+# ABC-Analysis
+ABC-Analysis
